@@ -1,5 +1,5 @@
 ## Hi there 👋  
-### My Name is Thanyani Munotha, Jr. or TJ for short!
+### My Name is Thanyani Munotha Jr. or TJ for short!
 
 <!--
 **TeeJay0403/TeeJay0403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
